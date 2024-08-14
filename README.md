@@ -1,4 +1,4 @@
-# Projeto Django Livraria 
+# Livraria - Projeto Django
 
 Para criação da app django_livraria iniciamos criando uma pasta com o nome da que referência a aplicação. Lembrando que utilizaremos o ambiente virtual para criação do projeto. 
 
